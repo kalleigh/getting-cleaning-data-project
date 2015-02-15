@@ -1,7 +1,3 @@
-# getting-cleaning-data-project
-Repo for submitting project work from Getting and Cleaning Data Chapter
-
-
 # Instructions on how the script works: 
 The script has 5 working parts to it. 
 * Loading the data from text files into R
