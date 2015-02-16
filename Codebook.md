@@ -53,7 +53,7 @@ Each observation contains the average of of mean and standard deviation values f
 * fBodyAccMag
 * fBodyAccJerkMag
 * fBodyGyroMag
-*fBodyGyroJerkMag
+* fBodyGyroJerkMag
 
 1. Total number of observations = <b> 180 </b>
 2. Total number of variables (columns) = <b> 68 </b>
