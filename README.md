@@ -1,4 +1,7 @@
-# Instructions on how the script works: 
+Copy the run_analysis.R script, save it, and run it. 
+Link to run_analysis.R script - https://github.com/kalleigh/getting-cleaning-data-project/blob/master/run_analysis.R
+
+##  How does the script work?  
 The script has 5 working parts to it. 
 * Loading the data from text files into R
 * Creating 1 data set of all the provided data and labeling the columns appropriately
@@ -45,3 +48,6 @@ As seen in swirl tutorial, it is always good to load the packages you will need 
 * This will summarize the value of each measurement by subject and activity. 
 * Finally, make sure to print this dataset to the screen. 
 
+###### Reading mydf data to R: 
+A text version of the mydf data has been provided to you named mytidydataset.txt. Assuming this file is in your working directory, you can use the following code to read the file into R. 
+mytidydataset<-read.table("~/UCI HAR Dataset/mytidydataset.txt", header=T)
