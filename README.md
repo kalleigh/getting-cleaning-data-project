@@ -1,8 +1,9 @@
+### Getting and Cleaning Data Course Project
+
 This file consists of information that will help you through the various files and links you can find in this github folder. 
-Start with the 
 
 #### Script link: 
-Copy the run_analysis.R script, save it, and run it. 
+Run the run_analysis.R script in R
 Script link: https://github.com/kalleigh/getting-cleaning-data-project/blob/master/run_analysis.R
 
 ####  How does the script work?  
