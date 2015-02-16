@@ -53,9 +53,9 @@ As seen in swirl tutorial, it is always good to load the packages you will need 
 * This will summarize the value of each measurement by subject and activity. 
 * Finally, make sure to print this dataset to the screen. 
 
-###### Reading mydf data to R: 
+#### Reading mydf data to R: 
 A text version of the mydf data has been provided to you named mytidydataset.txt. Assuming this file is in your working directory, you can use the following code to read the file into R. 
 mytidydataset<-read.table("~/UCI HAR Dataset/mytidydataset.txt", header=T)
 
-###### Codebook describing mytidydataset: 
+#### Codebook describing mytidydataset: 
 Codebook link: https://github.com/kalleigh/getting-cleaning-data-project/blob/master/Codebook.md
