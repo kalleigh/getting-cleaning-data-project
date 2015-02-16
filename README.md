@@ -1,7 +1,11 @@
+This file consists of information that will help you through the various files and links you can find in this github folder. 
+Start with the 
+
+#### Script link: 
 Copy the run_analysis.R script, save it, and run it. 
 Script link: https://github.com/kalleigh/getting-cleaning-data-project/blob/master/run_analysis.R
 
-##  How does the script work?  
+####  How does the script work?  
 The script has 5 working parts to it. 
 * Loading the data from text files into R
 * Creating 1 data set of all the provided data and labeling the columns appropriately
